@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   sodipodi:docbase="C:\pmendham\Reference\Misc"
+   sodipodi:docname="star-logo-inverse.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient2825">
+      <stop
+         style="stop-color:white;stop-opacity:1;"
+         offset="0"
+         id="stop2827" />
+      <stop
+         style="stop-color:#343399;stop-opacity:1;"
+         offset="1"
+         id="stop2829" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2825"
+       id="radialGradient2831"
+       cx="328.73438"
+       cy="839.26563"
+       fx="328.73438"
+       fy="839.26563"
+       r="118.20313"
+       gradientTransform="matrix(1,0,0,1.001058,0,-0.887525)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2825"
+       id="radialGradient2843"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.001058,0,-0.887525)"
+       cx="328.73438"
+       cy="839.26563"
+       fx="328.73438"
+       fy="839.26563"
+       r="118.20313" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2825"
+       id="radialGradient2773"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.001058,-181.8275,-699.9131)"
+       cx="328.73438"
+       cy="839.26563"
+       fx="328.73438"
+       fy="839.26563"
+       r="118.20313" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="356.67048"
+     inkscape:cy="571.2635"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1093"
+     inkscape:window-height="847"
+     inkscape:window-x="40"
+     inkscape:window-y="65" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#343399;fill-opacity:1;stroke:#050380;stroke-width:0.84799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1880"
+       width="731.35046"
+       height="296.98483"
+       x="8.0812206"
+       y="3.8238144" />
+    <text
+       xml:space="preserve"
+       style="font-size:28.43581581px;font-style:normal;font-weight:normal;fill:white;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="209.81731"
+       y="238.07452"
+       id="text1872"><tspan
+         sodipodi:role="line"
+         id="tspan1874"
+         x="209.81731"
+         y="238.07452"
+         style="font-size:85.30744171px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:white;fill-opacity:1;font-family:Trebuchet MS">STAR-Dundee</tspan></text>
+    <g
+       id="g2773">
+      <path
+         transform="matrix(1.011859,0,0,1.011859,81.8697,-233.0056)"
+         d="M 95.964495 368.86771 A 31.693537 31.693537 0 1 1  32.577421,368.86771 A 31.693537 31.693537 0 1 1  95.964495 368.86771 z"
+         sodipodi:ry="31.693537"
+         sodipodi:rx="31.693537"
+         sodipodi:cy="368.86771"
+         sodipodi:cx="64.270958"
+         id="path2808"
+         style="fill:none;fill-opacity:1;stroke:white;stroke-width:0.83806145;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         id="path2804"
+         d="M 146.89125,21.9119 L 140.61,129.1619 L 97.57875,90.9119 L 135.735,133.8494 L 28.70375,140.2244 L 135.6725,146.63065 L 97.64125,189.50565 L 140.61,151.3494 L 146.89125,258.56815 L 153.20375,151.2869 L 196.235,189.56815 L 158.0475,146.63065 L 265.11,140.2244 L 158.11,133.8494 L 196.1725,90.9744 L 153.20375,129.0994 L 146.89125,21.9119 z "
+         style="fill:url(#radialGradient2773);fill-opacity:1;fill-rule:evenodd;stroke:white;stroke-width:0.44800001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
